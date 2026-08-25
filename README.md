@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, I'm Mohamed Louay Njima</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Mohamed Louay Njima</b> <img src="assets/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00C2FF&size=24&center=true&vCenter=true&width=650&height=90&lines=AI+Engineer;LLM+%7C+RAG+%7C+Agents;ML+%7C+NLP+%7C+Data+Systems;Building+production-oriented+AI+products"></a>
 </p>
@@ -26,6 +26,8 @@ Currently looking for opportunities in AI Engineering, Machine Learning, and Dat
 
 ## Skills
 
+<img src="assets/Skills.gif" width="120" alt="skills" />
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge)](#)
@@ -40,6 +42,8 @@ Currently looking for opportunities in AI Engineering, Machine Learning, and Dat
 ---
 
 ## GitHub Stats
+
+<img src="assets/Stats.gif" width="160" alt="stats" />
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=medlouaynjima&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia)
 
@@ -81,6 +85,8 @@ Data science project analyzing electricity demand and grid stress to uncover ope
 ---
 
 ## Open Source
+
+<img src="assets/about_me.gif" width="180" alt="about me" />
 
 I contribute to projects at the intersection of Python, AI, LLMs, retrieval systems, and data engineering.
 
@@ -128,7 +134,15 @@ I’m especially interested in open-source work around LLM applications, RAG, ag
 ---
 
 <p align="center">
+  <img src="assets/Ligne.gif" width="100%" alt="divider" />
+</p>
+
+<p align="center">
   <i>Building AI systems, contributing to open source, and learning by solving real problems.</i>
+</p>
+
+<p align="center">
+  <img src="assets/Right_Side.gif" width="180" alt="right side" />
 </p>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=medlouaynjima&repo=medlouaynjima&theme=react)](https://github.com/medlouaynjima/medlouaynjima)
