@@ -38,10 +38,6 @@ I build end-to-end AI products from experimentation to deployment, with a focus 
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=medlouaynjima&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medlouaynjima&show_icons=true&theme=radical)
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=medlouaynjima&theme=algolia" alt="streak stats" />
 </p>
