@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, I'm Mohamed Louay Njima</b> <img src="assets/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Mohamed Louay Njima</b></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00C2FF&size=24&center=true&vCenter=true&width=650&height=90&lines=AI+Engineer;LLM+%7C+RAG+%7C+Agents;ML+%7C+NLP+%7C+Data+Systems;Building+production-oriented+AI+products"></a>
 </p>
@@ -7,11 +7,11 @@
   <img src="https://avatars.githubusercontent.com/u/116110264?v=4" width="180" alt="profile avatar" />
 </div>
 
-I’m an AI engineer building production-oriented LLM, RAG, agentic AI, ML, and data systems with a strong focus on turning research into deployable products. I enjoy working across the full stack of AI development: experimentation, data pipelines, model serving, evaluation, and real-world impact.
+<p align="center">
+  <strong>AI Engineer</strong> building production-oriented LLM, RAG, agentic AI, ML, and data systems.
+</p>
 
-I’m especially interested in solving practical problems with reliable systems, and I actively contribute to open-source projects in Python, AI, and data tooling.
-
-Currently looking for opportunities in AI Engineering, Machine Learning, and Data-focused product development.
+I build end-to-end AI products from experimentation to deployment, with a focus on reliable LLM applications, retrieval systems, and data-driven decision tools.
 
 ## Connect
 
@@ -19,14 +19,9 @@ Currently looking for opportunities in AI Engineering, Machine Learning, and Dat
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-louay-njima/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louay.njima002@gmail.com)
 
-![GitHub followers](https://img.shields.io/github/followers/medlouaynjima?style=social)
-![GitHub stars](https://img.shields.io/github/stars/medlouaynjima?style=social)
-
 ---
 
 ## Skills
-
-<img src="assets/Skills.gif" width="120" alt="skills" />
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
@@ -42,8 +37,6 @@ Currently looking for opportunities in AI Engineering, Machine Learning, and Dat
 ---
 
 ## GitHub Stats
-
-<img src="assets/Stats.gif" width="160" alt="stats" />
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=medlouaynjima&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia)
 
@@ -77,16 +70,9 @@ Machine learning system for detecting abnormal network traffic and suspicious ac
 
 **Focus:** Anomaly detection • Cybersecurity • ML
 
-### Tunisia-Electricity-Analysis
-Data science project analyzing electricity demand and grid stress to uncover operational patterns and forecasting insights.
-
-**Focus:** Time series • Forecasting • Energy analytics
-
 ---
 
 ## Open Source
-
-<img src="assets/about_me.gif" width="180" alt="about me" />
 
 I contribute to projects at the intersection of Python, AI, LLMs, retrieval systems, and data engineering.
 
@@ -134,15 +120,7 @@ I’m especially interested in open-source work around LLM applications, RAG, ag
 ---
 
 <p align="center">
-  <img src="assets/Ligne.gif" width="100%" alt="divider" />
-</p>
-
-<p align="center">
   <i>Building AI systems, contributing to open source, and learning by solving real problems.</i>
-</p>
-
-<p align="center">
-  <img src="assets/Right_Side.gif" width="180" alt="right side" />
 </p>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=medlouaynjima&repo=medlouaynjima&theme=react)](https://github.com/medlouaynjima/medlouaynjima)
