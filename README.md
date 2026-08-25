@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/116110264?v=4" width="180" alt="profile avatar" />
+  <img src="https://avatars.githubusercontent.com/u/116110264?v=4" width="180" height="180" style="border-radius:50%; object-fit:cover;" alt="profile avatar" />
 </div>
 
 <p align="center">
