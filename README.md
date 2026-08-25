@@ -111,7 +111,7 @@ I’m especially interested in open-source work around LLM applications, RAG, ag
 **Engineering Degree in Computer Science**
 
 **Specialization:** Data Science  
-**Graduated with Très Bien**
+**Graduated with very good mention**
 
 ---
 
@@ -119,4 +119,3 @@ I’m especially interested in open-source work around LLM applications, RAG, ag
   <i>Building AI systems, contributing to open source, and learning by solving real problems.</i>
 </p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=medlouaynjima&repo=medlouaynjima&theme=react)](https://github.com/medlouaynjima/medlouaynjima)
